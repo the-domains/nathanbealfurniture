@@ -1,0 +1,28 @@
+name: nathanbealfurniture
+favicon: null
+layout_spectrum: 0.4724046776536852
+typography_spectrum: 0.3422840624116361
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.25621242285706103
+  lightness: 0.5663605853915215
+  saturation: 0.5498328632675111
+  rhythmicContrast: 0.4094431223347783
+purpose: []
